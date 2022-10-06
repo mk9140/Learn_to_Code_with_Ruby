@@ -1,5 +1,6 @@
 # 42
 # b2
+# test1
 # Integer 타입에 사용할 수 있다.
 
 # 정수.downto(limit) 블록 : 정수 부터 -1 씩, limit 까지 카운트하며 블록을 호출한다.
