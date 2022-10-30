@@ -9,24 +9,24 @@ puts name, revenue
 
 # 공백문자(空白文字. space)
 space = " "
-p space
-p space.length
+p space # " "
+p space.length # 1
 
 puts
 
 # empty
 empty = ""
-p empty
-p empty.length
+p empty # ""
+p empty.length  # 0
 
 puts
 
-p name.class
-p space.class
-p empty.class
+p name.class # String
+p space.class # String
+p empty.class # String
 
 puts
 
 # String "Class" 이니까, new 키워드 사용가능(오브젝트 만들기)
 name = String.new("min")
-p name
+p name # "min"
